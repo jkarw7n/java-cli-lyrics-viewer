@@ -19,17 +19,7 @@
 // All entries must have a title, artist, music file name,
 // and lyrics file name.
 
-Title: O mi awn ni am dro
-Artist: Fleur De Lys
-Music: O mi awn ni am dro.mp3
-Lyrics: O mi awn ni am dro.vtt
-
-Title: Mitt hjerte alltid vanker
-Artist: Kalandra
-Music: mhav.mp3
-Lyrics: mhav.lyrics
-
-Title: Marilag
-Artist: Dionela
-Music: marilag.mp3
-Lyrics: marilag.lyrics
+Title: 
+Artist: 
+Music: 
+Lyrics: 
