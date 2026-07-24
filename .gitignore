@@ -1,0 +1,7 @@
+bin/*
+!bin/.gitkeep
+assets/lyrics/*
+!assets/lyrics/.gitkeep
+assets/music/*
+!assets/music/.gitkeep
+sources.txt
